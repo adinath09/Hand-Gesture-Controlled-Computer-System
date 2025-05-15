@@ -101,6 +101,8 @@ This project is open-source and available under the [MIT License](LICENSE).
 ### 👨‍💻 Author
 
 Adinath  Nage 
+
+
 Feel free to connect on [GitHub](https://github.com/adinath09)
 
 ---
