@@ -1,0 +1,2 @@
+pyautogui
+pyttsx3==2.91
